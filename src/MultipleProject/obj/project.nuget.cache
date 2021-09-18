@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "8mpab7OHrTPPYhacXNGtNPWNDiJnyY6dB9wy/LNRrDIIYtXEDfUOjrRm+GpaHbWnZP5ed/7LxiLsXBswl14fKw==",
+  "success": true,
+  "projectFilePath": "/Users/sadin/Projects/Courses/SingleVideos/DockerizeMultipleProjects/Projects/src/MultipleProject/MultipleProject.csproj",
+  "expectedPackageFiles": [
+    "/Users/sadin/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/sadin/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/sadin/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/sadin/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/sadin/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/sadin/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
