@@ -1,0 +1,15 @@
+/Users/sadin/Projects/Courses/SingleVideos/DockerizeMultipleProjects/Projects/src/Common/bin/Debug/net5.0/Common.deps.json
+/Users/sadin/Projects/Courses/SingleVideos/DockerizeMultipleProjects/Projects/src/Common/bin/Debug/net5.0/Common.runtimeconfig.json
+/Users/sadin/Projects/Courses/SingleVideos/DockerizeMultipleProjects/Projects/src/Common/bin/Debug/net5.0/Common.runtimeconfig.dev.json
+/Users/sadin/Projects/Courses/SingleVideos/DockerizeMultipleProjects/Projects/src/Common/bin/Debug/net5.0/Common.dll
+/Users/sadin/Projects/Courses/SingleVideos/DockerizeMultipleProjects/Projects/src/Common/bin/Debug/net5.0/ref/Common.dll
+/Users/sadin/Projects/Courses/SingleVideos/DockerizeMultipleProjects/Projects/src/Common/bin/Debug/net5.0/Common.pdb
+/Users/sadin/Projects/Courses/SingleVideos/DockerizeMultipleProjects/Projects/src/Common/obj/Debug/net5.0/Common.csproj.AssemblyReference.cache
+/Users/sadin/Projects/Courses/SingleVideos/DockerizeMultipleProjects/Projects/src/Common/obj/Debug/net5.0/Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadin/Projects/Courses/SingleVideos/DockerizeMultipleProjects/Projects/src/Common/obj/Debug/net5.0/Common.AssemblyInfoInputs.cache
+/Users/sadin/Projects/Courses/SingleVideos/DockerizeMultipleProjects/Projects/src/Common/obj/Debug/net5.0/Common.AssemblyInfo.cs
+/Users/sadin/Projects/Courses/SingleVideos/DockerizeMultipleProjects/Projects/src/Common/obj/Debug/net5.0/Common.csproj.CoreCompileInputs.cache
+/Users/sadin/Projects/Courses/SingleVideos/DockerizeMultipleProjects/Projects/src/Common/obj/Debug/net5.0/Common.dll
+/Users/sadin/Projects/Courses/SingleVideos/DockerizeMultipleProjects/Projects/src/Common/obj/Debug/net5.0/ref/Common.dll
+/Users/sadin/Projects/Courses/SingleVideos/DockerizeMultipleProjects/Projects/src/Common/obj/Debug/net5.0/Common.pdb
+/Users/sadin/Projects/Courses/SingleVideos/DockerizeMultipleProjects/Projects/src/Common/obj/Debug/net5.0/Common.genruntimeconfig.cache
